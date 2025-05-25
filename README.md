@@ -1,0 +1,2 @@
+# JAI
+Journling AI
